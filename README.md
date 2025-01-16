@@ -56,7 +56,7 @@ O Objetivo final é a criação de um relatório visual interativo que permita e
 - **Balança Comercial*
 ![Balança Comercial](imagens/balanca.png)
 - **Balança em Reais*
-![Balança em Reais](images/em_real.png)
+![Balança em Reais](imagens/em_real.png)
 
 Para explorar e interagir com o relatório completo, acesse o link abaixo:
 
