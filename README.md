@@ -48,15 +48,15 @@ O Objetivo final é a criação de um relatório visual interativo que permita e
 
 
 - **Capa**
-![Capa](images/capa_balanca.png)
+![Capa](imagens/capa.png)
 - **Exportação**
-![Exportação](images/exportacao.png)
+![Exportação](imagens/exportacao.png)
 - **Importação**
-![Importação](images/importacao.png)
+![Importação](imagens/importacao.png)
 - **Balança Comercial*
-![Balança Comercial](images/balanca_comercial.png)
+![Balança Comercial](imagens/balanca.png)
 - **Balança em Reais*
-![Balança em Reais](images/balanca_comercial.png)
+![Balança em Reais](images/em_real.png)
 
 Para explorar e interagir com o relatório completo, acesse o link abaixo:
 
